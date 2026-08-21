@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.nerlud.formulasclinicas",
+        "sha256_cert_fingerprints": ["AB:69:E4:FE:D7:4B:C1:30:BF:55:EB:49:4C:BB:FA:29:D2:35:6C:B8:51:89:51:0D:67:C8:92:5E:4A:8E:5B:E0"]
+      }
+    }]
